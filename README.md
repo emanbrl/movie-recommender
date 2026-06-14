@@ -24,7 +24,7 @@ This project implements three complementary recommendation approaches:
 movie-recommender/
 │
 ├── movierecommender.py   # Main system: data loading, model building, recommendations
-├── test.py               # Lightweight collaborative filtering test with synthetic data
+├── demo.py               # Lightweight collaborative filtering test with synthetic data
 ├── requirements.txt      # Python dependencies
 ├── data/                 # Place MovieLens CSV files here (not included)
 │   ├── rating.csv
