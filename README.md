@@ -75,9 +75,9 @@ Download from [https://grouplens.org/datasets/movielens/](https://grouplens.org/
 python movierecommender.py
 ```
 
-### 5. Run the test script
+### 5. Run the demo script
 ```bash
-python test.py
+python demo.py
 ```
 
 ---
