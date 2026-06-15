@@ -1,5 +1,5 @@
 numpy>=1.23
 pandas>=1.5
 scikit-learn>=1.2
-tensorflow>=2.1
+tensorflow>=2.10
 faiss-cpu
